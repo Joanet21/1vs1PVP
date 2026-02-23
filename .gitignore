@@ -7,3 +7,5 @@ Logs/
 UserSettings/
 .vs/
 .vscode/
+!docs/Build/
+!docs/Build/**
