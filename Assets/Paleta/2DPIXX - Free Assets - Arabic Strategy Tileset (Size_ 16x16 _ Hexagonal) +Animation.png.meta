@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 11988fb7354ad2347b0c7579324789db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4875460147577454201
+    second: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+      +Animation_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781821bb3d2e65cb0800000000000000
+      internalID: -4875460147577454201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9f7f56ffda5841997f5a8e703f554
+      internalID: -68039312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ca369bc8009ed4db40db556f39699f
+      internalID: -803300791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3159ce470cd79345a381caa8eaee8d6
+      internalID: 1338128687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eef0815ebb10d4a8043b2d756a61a8
+      internalID: 1906395968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d0c446c571ef4c80fabe3492d5b2c
+      internalID: 1310593616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6c0486deab2ff449ceda70d25ad716
+      internalID: -629108502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304843ff73c4fd8449d0baa269607aec
+      internalID: -850648222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619f10f9a07f6db4e89a6280a6f093d4
+      internalID: 1724599144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead568964b749f4a87d5f0960682786
+      internalID: -1855508877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d457fbfedd00a40976c5314ef391da
+      internalID: 989012631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75828d60cca279d40a8d3646c6201edf
+      internalID: -1317406221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a2c03ab9d14544c95f55e2c987c2cc
+      internalID: 1184195767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12803fc58c6bdd147a9e96e40593046e
+      internalID: 1814456734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8662a333fcd457741a0e34b8388bc9c5
+      internalID: -1648399823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal)
+        +Animation_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b4ade33deb2b41abd7f4fa481c919
+      internalID: 1799241676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 378fd64807a982b43988c5b7de8acc08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_0: -4875460147577454201
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_1: -68039312
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_10: 989012631
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_11: -1317406221
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_12: 1184195767
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_13: 1814456734
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_14: -1648399823
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_15: 1799241676
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_2: -803300791
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_3: 1338128687
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_4: 1906395968
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_5: 1310593616
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_6: -629108502
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_7: -850648222
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_8: 1724599144
+      2DPIXX - Free Assets - Arabic Strategy Tileset (Size_ 16x16 _ Hexagonal) +Animation_9: -1855508877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
